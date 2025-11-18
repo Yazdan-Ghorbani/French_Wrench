@@ -1,3 +1,26 @@
+# French_Wrench — Divar AI | آچار فرانسه
+
+
+---
+
+## وضعیت
+- زبان: Python  
+- فایل‌های اصلی: `solution.py`, `python_requirements.txt`  
+(برای اطلاعات دقیق‌تر دربارهٔ محتوا و مثال‌ها، به بخش‌های پایین مراجعه کنید.)
+---
+
+## راه اندازی
+```bash
+
+git clone https://github.com/Yazdan-Ghorbani/French_Wrench
+cd French_Wrench
+
+python -m venv .venv
+source .venv/bin/activate      # یا on Windows: .venv\Scripts\activate
+pip install -r python_requirements.txt
+
+```
+
 # Divar AI | آچار فرانسه
 
 ## آچار فرانسه
